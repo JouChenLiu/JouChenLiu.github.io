@@ -1,2 +1,2 @@
-# [Welcome to visit my CV website](https://ncujouchen.github.io/)
+# [Welcome to visit my CV website](https://NCUjouchen.github.io/)
 ## Nice to meet you :D
